@@ -4,7 +4,7 @@
 🎓 CS50W Student | 🛠️ Currently building awesome web projects  
 🌸 Passionate about clean design, accessibility, and learning cool new tech  
 💼 Looking for internships & freelance gigs | Bangalore, India  
-📫 Reach me at: yourname@email.com | [LinkedIn Profile](#)
+📫 Reach me at: navyanayak042000@gmail.com
 
 ---
 
