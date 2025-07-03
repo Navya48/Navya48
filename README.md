@@ -19,8 +19,8 @@
 
 ## 📌 Pinned Projects
 - 🔍 [Google Search Clone](https://github.com/Navya48/project0)
-- 🌼 [Personal Journal Website](#) *(coming soon!)*  
-- 📚 [CS50W Assignments](#) *(add once uploaded)*
+- 🌼 [Personal Journal Website](#)  
+- 📚 [CS50W Assignments](#) 
 
 ---
 
